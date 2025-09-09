@@ -71,3 +71,13 @@ Training Accuracy: 0.87%
 Testing Accuracy: 0.974751353263855%
 
 Robust against different lighting and background conditions
+
+# 🚀 Future Improvements
+
+Implement detection in low-light conditions.
+
+Expand dataset with international traffic signs.
+
+Deploy on edge devices (Raspberry Pi, Jetson Nano).
+
+Integrate with autonomous driving simulators.
