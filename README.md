@@ -66,8 +66,8 @@ Detect & classify signs in real time
 
 # 📊 Results
 
-Training Accuracy: ~98%
+Training Accuracy: 0.87%
 
-Testing Accuracy: ~95–97%
+Testing Accuracy: 0.974751353263855%
 
 Robust against different lighting and background conditions
