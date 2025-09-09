@@ -27,3 +27,39 @@ OpenCV – Image preprocessing & real-time detection
 NumPy, Pandas – Data handling
 
 Matplotlib, Seaborn – Visualization
+
+# ⚙️ Project Workflow
+
+## Data Preprocessing
+
+Image resizing
+
+Normalization
+
+Data augmentation (rotation, zoom, flip, brightness adjustment)
+
+## Model Building
+
+CNN architecture with multiple convolutional & pooling layers
+
+Activation functions: ReLU, Softmax
+
+Optimizer: Adam
+
+Loss function: Categorical Crossentropy
+
+## Training & Evaluation
+
+Train on 80% of dataset, test on 20%
+
+Accuracy and loss visualization
+
+Confusion matrix for performance check
+
+## Deployment / Real-Time Detection
+
+Load trained model
+
+Use OpenCV to capture video frames
+
+Detect & classify signs in real time
